@@ -5,6 +5,7 @@ import Input from "../../components/Input";
 import warningIcon from "../../assets/images/icons/warning.svg";
 
 import "./style.css";
+import Textarea from "../../components/TextArea";
 
 function TeacherForm() {
   return (
@@ -20,6 +21,7 @@ function TeacherForm() {
           <Input name="name" label="Nome Completo" />
           <Input name="avatar" label="Avatar" />
           <Input name="whatsapp" label="WhatsApp" />
+          <Textarea name="bio" label="Biografia" />
         </fieldset>
 
         <fieldset>
