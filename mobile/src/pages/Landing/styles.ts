@@ -2,7 +2,6 @@
 
  const styles = StyleSheet.create({
    container: {
-     asd: 1,
      flex: 1,
      backgroundColor: '#8257E5',
      justifyContent: 'center',
