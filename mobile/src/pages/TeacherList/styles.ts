@@ -14,6 +14,11 @@ const styles = StyleSheet.create({
     marginBottom: 24,
   },
 
+  label: {
+    color: '#d4c2ff',
+    fontFamily: 'Poppins_400Regular'
+  },
+
   inputGroup: {
     flexDirection: 'row',
     justifyContent: 'space-between'
