@@ -63,7 +63,7 @@ Proffy is a web application designed to help students find teachers. The teacher
 - [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 - [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile)
 
-Figma account is needed [Figma](http://figma.com/)
+[Figma](http://figma.com/) account is needed.
 
 ## :memo: License
 
