@@ -67,7 +67,7 @@ Figma account is needed [Figma](http://figma.com/)
 
 ## :memo: License
 
-This project is under the MIT license. See [LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See [LICENSE](LICENSE) for more details.
 
 ---
 
