@@ -24,7 +24,6 @@ Proffy is a web application designed to help students find teachers. The teacher
 - Class registration and listing
 - Mark class as favorite
 - Classes filter (by subject, weekday, time)
-- Conn
 - Whatsapp redirection
 - Counter for how many users reached teachers by whatsapp
 
